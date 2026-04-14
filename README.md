@@ -7,7 +7,7 @@ It focuses on clean design, proper structure, and dynamic time updates.
 https://todo-item-card-seven.vercel.app/
 
 ## GitHub Repo
-(Add your repo link here)
+https://github.com/Prince-Magami/todo-card.git
 
 ## Features
 
