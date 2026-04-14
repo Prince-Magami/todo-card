@@ -24,6 +24,12 @@ It focuses on clean design, proper structure, and dynamic time updates.
 - CSS
 - JavaScript 
 
+## How to Run locally
+
+1. Download or clone the project  (files)
+2. Make sure they are arranged in same order as they are on Github
+3. Open `index.html` in your browser
+   
 ## Notes
 
 - Time updates every 30 seconds
