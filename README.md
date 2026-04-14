@@ -4,7 +4,7 @@ This project is a simple and interactive Todo Task Card built using HTML, CSS, a
 It focuses on clean design, proper structure, and dynamic time updates.
 
 ## Live Demo
-(Add your deployed link here)
+https://todo-item-card-seven.vercel.app/
 
 ## GitHub Repo
 (Add your repo link here)
@@ -22,7 +22,19 @@ It focuses on clean design, proper structure, and dynamic time updates.
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+  
+## Decisions
+
+- Used semantic HTML for accessibility and testing
+- Used vanilla JavaScript instead of frameworks to keep it simple
+- Focused on clean UI and real-time updates
+
+## Trade-offs
+
+- No backend functionality
+- No data persistence (resets on refresh)
+- Edit/Delete buttons are UI only
 
 ## How to Run locally
 
